@@ -3,6 +3,8 @@ LeetCode
 
 Personal Codes for LeetCode Questions
 
+> **Reverse Words in a String**
+
 ReverseWords:
  
 Given an input string, reverse the string word by word.
@@ -19,6 +21,9 @@ Yes. However, your reversed string should not contain leading or trailing spaces
 How about multiple spaces between two words?
 Reduce them to a single space in the reversed string.
 
+
+> **Search in Rotated Sorted Array**
+
 Sorted Array:
 
 Suppose a sorted array is rotated at some pivot unknown to you beforehand.
@@ -28,6 +33,8 @@ Suppose a sorted array is rotated at some pivot unknown to you beforehand.
 You are given a target value to search. If found in the array return its index, otherwise return -1.
 
 You may assume no duplicate exists in the array.
+
+> **Sqrt(x)**
 
 Sqrt:
 
